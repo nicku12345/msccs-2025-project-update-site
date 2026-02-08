@@ -1,0 +1,4 @@
+baseURL = 'https://msccs-2025-project.netlify.app/'
+languageCode = 'en-us'
+title = 'MSCCS 2025 project'
+theme = "hugo-book"

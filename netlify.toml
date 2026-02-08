@@ -1,0 +1,11 @@
+[build]
+  command = "hugo"
+  publish = "public"
+
+[build.environment]
+  HUGO_VERSION = "0.155.2"
+
+[[redirects]]
+  from = "/*"
+  to = "/posts/"
+  status = 200

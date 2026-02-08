@@ -1,0 +1,29 @@
+# Hugo public directory
+public/
+
+# Hugo cache directory
+resources/
+
+# Hugo temporary files
+assets/
+
+# Cache and build files
+*.cache
+*.log
+*.tmp
+
+# IDE and editor directories and files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# Node.js dependencies (if you're using npm)
+node_modules/
+
+# Go module files (if applicable)
+vendor/
